@@ -1,5 +1,10 @@
 h3 {
   font-family: sans-serif;
   color: red;
-  font-weight: bold; 
+  font-weight: bold;
+}
+
+.crooked-man {
+  font-weight: lighter;
+  color: orange; 
 }
