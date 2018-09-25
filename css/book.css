@@ -1,5 +1,15 @@
 .title-heading {
   font-family: serif;
-  font-size: 20px;
-  color: red;
+  font-size: 50px;
+  color: maroon;
+  margin-bottom: 2%;
+}
+
+cite {
+  font-family: sans-serif;
+}
+
+figcaption {
+  font-family: sans-serif;
+  color: maroon;
 }
