@@ -6,5 +6,11 @@ h3 {
 
 .crooked-man {
   font-weight: lighter;
-  color: orange; 
+  color: orange;
+}
+
+.greek-god {
+  font-style: italic;
+  color: purple;
+  font-weight: bold;
 }
